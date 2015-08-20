@@ -5,6 +5,11 @@ body{
 	text-align:justify;
 }
 
+.text-top{
+	padding-top: 4vh;
+	text-align: center;
+}
+
 .aminal-bottom-text
 {
 	font-family: 'Exo 2', sans-serif;
@@ -36,8 +41,12 @@ body{
 	color:#ddd;
 }
 .aminal-logo-top{
-	height: 8vw;
-	width: 8vw;
+	height: 10vw;
+	width: 10vw;
+}
+
+.phil{
+	padding-bottom: 6vw;
 }
 
 a:hover {
