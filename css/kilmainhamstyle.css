@@ -1,0 +1,147 @@
+body{
+	font-family:'lato', sans-serif;
+	background-color:#000000;
+	font-size:1.7em;
+	text-align:justify;
+}
+
+.jumbotron {
+	background-color: #000;
+}
+
+.navHeaderCollapse{
+	font-family: 'ubuntu';
+	background-color: #C19DD0;
+	color: #000;
+}
+
+.navbar-fixed-bottom {
+	background-color: #C19DD0;
+	color: #000;
+}
+.navbar-fixed-top{
+	background-color: #C19DD0;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color:#000;
+}
+
+.text-top{
+	padding-top: 4vh;
+	text-align: center;
+}
+
+.kilmainham-bottom-text{
+	color: #000;
+	font-size:14px;
+	font-family: 'Ubuntu', sans-serif;
+}
+.kilmainham-top-box{
+	background: -webkit-linear-gradient(rgba(0,0,0,0),  rgba(0,0,0,0)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(0,0,0,0),  rgba(0,0,0,0)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)); /* Standard syntax */
+	/*margin:5vh;*/
+	margin-bottom:0;
+	padding:0;
+	border-radius:25%;
+	font-family: 'ubuntu', sans-serif;
+}
+.kilmainham-top-box img{
+	margin: 0;
+    max-height: 12%;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.navbar-inverse .navbar-text {
+	color: #000;
+	}
+
+.kilmainham-top-box h1{
+	background-color:rgba(0,0,0,0);
+	color:#fff;
+	font-family: 'ubuntu', sans-serif;
+}
+
+.kilmainham-logo-top{
+	height: 10vw;
+	width: 10vw;
+}
+
+.phil{
+	padding-bottom: 6vw;
+}
+
+a:hover {
+	text-decoration:none;
+}
+
+a {
+	color:#FFF;
+}
+
+a:link{
+	text-decoration:none;
+}
+
+h1{
+	padding-top: 2vh;
+}
+
+.index_content{
+	padding-bottom: 1.4vw;
+	text-align:center;
+}
+	
+.kilmainham-content{
+	background: -webkit-linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.7)10%); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.7)10%); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.7)10%); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.7)10%); /* Standard syntax */
+	border-radius:5px;
+	color:#ddd;
+	/*padding:5%;*/
+	padding-top:0;
+	margin-top:0;
+}
+
+video{
+	position:absolute;
+	z-index:-1;
+	margin:auto;
+	top:-2vw;
+	min-width:100vw; height:50vw;
+	margin-top:0;
+}
+
+.page{
+	padding-top: 40vw;
+}
+
+iframe{
+	padding-top: 15vh;
+}
+
+.kilmainham-front-col-left{
+	position: left;
+	text-align: justify;
+}
+
+.kilmainham-front-col-mid{
+	text-align: justify;;
+}
+
+.kilmainham-front-col-right{
+	text-align: justify;
+	position: float right;
+	padding-bottom:10vw;
+}
+
+.kilmainham-personnel-img{
+	border-radius:50%;
+	width:200px;
+	height:200px;
+	margin:2%;
+}
